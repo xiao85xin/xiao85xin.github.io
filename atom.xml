@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一行的世界</title>
+  
+  <subtitle>The gift from his parent to son</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.jizhouhang.com/"/>
+  <updated>2018-10-01T06:25:21.534Z</updated>
+  <id>http://www.jizhouhang.com/</id>
+  
+  <author>
+    <name>Johnny</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>纪周行的世界</title>
+    <link href="http://www.jizhouhang.com/2018/10/01/%E7%BA%AA%E5%91%A8%E8%A1%8C%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    <id>http://www.jizhouhang.com/2018/10/01/纪周行的世界/</id>
+    <published>2018-10-01T06:25:21.000Z</published>
+    <updated>2018-10-01T06:25:21.534Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
