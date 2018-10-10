@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.jizhouhang.com/"/>
-  <updated>2018-10-01T06:25:21.534Z</updated>
+  <updated>2018-10-10T09:52:21.295Z</updated>
   <id>http://www.jizhouhang.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.jizhouhang.com/2018/10/10/test%20%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://www.jizhouhang.com/2018/10/10/test 图床/</id>
+    <published>2018-10-10T10:04:27.021Z</published>
+    <updated>2018-10-10T09:52:21.295Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="图床测试"><a href="#图床测试" class="headerlink" title="图床测试"></a>图床测试</h1><p><img src="http://ww2.sinaimg.cn/bmiddle/662c3955gy1fw385gxavcj20qo0qojut.jpg" alt="小雅"><br><img src="http://ww1.sinaimg.cn/bmiddle/662c3955gy1fw387ecz80j20qo0vhdjq.jpg" alt="正文"></p><iframe width="560" height="315" src="http://t.cn/E7LseWI?m=4293613607103223&u=1714174293" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;图床测试&quot;&gt;&lt;a href=&quot;#图床测试&quot; class=&quot;headerlink&quot; title=&quot;图床测试&quot;&gt;&lt;/a&gt;图床测试&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/bmiddle/662c3955gy1fw385gxavcj
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>纪周行的世界</title>
